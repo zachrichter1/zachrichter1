@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zachrichter1
-My full name is Zachary Richter
-Syracuse University
-JNL 221 M004
+- My full name is Zachary Richter
+- I go to Syracuse University
+- I am currently taking JNL 221 section M004
 - 👀 I’m interested in Broadcast and Digital Journalism
 
 <!---
